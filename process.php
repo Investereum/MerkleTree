@@ -1,6 +1,6 @@
 <?php
 // Configure your Subject Prefix and Recipient here
-$subjectPrefix = 'aSaas HTML Template';
+$subjectPrefix = 'Merkle Tree website';
 $emailTo       = 'pieteraertgeerts@gmail.com';
 $errors = array(); // array to hold validation errors
 $data   = array(); // array to pass back data
